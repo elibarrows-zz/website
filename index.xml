@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>eli barrows</title>
+    <link>https://elibarrows.github.io/website/index.xml</link>
+    <description>Recent content on eli barrows</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Feb 2017 13:58:12 -0600</lastBuildDate>
+    <atom:link href="https://elibarrows.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>https://elibarrows.github.io/website/about/</link>
+      <pubDate>Tue, 07 Feb 2017 13:58:12 -0600</pubDate>
+      
+      <guid>https://elibarrows.github.io/website/about/</guid>
+      <description>&lt;p&gt;I was born in &lt;a href=&#34;https://en.wikipedia.org/wiki/Salem,_Massachusetts&#34;&gt;Massachusetts&lt;/a&gt; and currently live in &lt;a href=&#34;https://en.wikipedia.org/wiki/Bridgeport,_Chicago&#34;&gt;Chicago.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://elibarrows.github.io/website/home/home/</link>
+      <pubDate>Tue, 07 Feb 2017 13:24:41 -0600</pubDate>
+      
+      <guid>https://elibarrows.github.io/website/home/home/</guid>
+      <description>&lt;p&gt;This is the homepage for the website.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>contact</title>
+      <link>https://elibarrows.github.io/website/contact/</link>
+      <pubDate>Tue, 07 Feb 2017 13:24:41 -0600</pubDate>
+      
+      <guid>https://elibarrows.github.io/website/contact/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;mailto:eli@elibarrows.com&#34;&gt;send me an email&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

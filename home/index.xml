@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on eli barrows</title>
+    <link>https://elibarrows.github.io/website/home/index.xml</link>
+    <description>Recent content in Homes on eli barrows</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Feb 2017 13:24:41 -0600</lastBuildDate>
+    <atom:link href="https://elibarrows.github.io/website/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Home</title>
+      <link>https://elibarrows.github.io/website/home/home/</link>
+      <pubDate>Tue, 07 Feb 2017 13:24:41 -0600</pubDate>
+      
+      <guid>https://elibarrows.github.io/website/home/home/</guid>
+      <description>&lt;p&gt;This is the homepage for the website.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
